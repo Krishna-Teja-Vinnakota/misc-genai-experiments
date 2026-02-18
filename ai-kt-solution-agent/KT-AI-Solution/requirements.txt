@@ -1,0 +1,5 @@
+streamlit
+qdrant-client
+google-cloud-aiplatform
+python-dotenv
+protobuf
