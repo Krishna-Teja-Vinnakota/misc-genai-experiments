@@ -1,0 +1,10 @@
+langgraph
+qdrant-client
+google-genai
+google-cloud-storage
+google-cloud-aiplatform
+vertexai
+scikit-learn
+pandas
+openpyxl
+numpy
