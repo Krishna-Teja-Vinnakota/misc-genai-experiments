@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pandas
+openpyxl
+langchain
+langchain-google-vertexai
+langchain-openai
+langchain-anthropic
+google-cloud-aiplatform
+openai
+anthropic
+python-dotenv
